@@ -1,2 +1,2 @@
-# learning_telegram_bots_python
-Larn to make telegram bots
+
+# Learn to make telegram bots
